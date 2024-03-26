@@ -1,2 +1,2 @@
 # gbdk-template
-Starting point for gbdk projects
+Starting point for GameBoy (Color) gbdk projects
